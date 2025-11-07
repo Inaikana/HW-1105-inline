@@ -1,0 +1,124 @@
+.top {
+  display: flex;
+}
+
+.top-bar {
+  display: flex;
+}
+
+.top-bar button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.inline {
+  font-size: 40px;
+  color: #ff5722;
+}
+
+.BG1 {
+  background-image: url(./bg/1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 732px;
+}
+
+.redbutton {
+  display: flex;
+  border-radius: 40px;
+  padding-left: 28px;
+  padding-right: 32px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: #ffffff;
+  background-color: #da3743;
+  font-size: 20px;
+  font-weight: 700;
+  align-items: center;
+}
+
+#IC-redbutton {
+  width: 36px;
+  height: 100%;
+  margin-right: 8px;
+}
+.water {
+  display: flex;
+}
+/* moji此處以下放【文字大小】 */
+
+.moji16 {
+  font-size: 16px;
+}
+
+.moji20 {
+  font-size: 20px;
+}
+
+/* mojiW此處以下放【文字粗細】 */
+
+.mojiW700 {
+  font-weight: 700;
+}
+
+/* iro此處以下放【顏色】 */
+
+.iro505563 {
+  color: #505563;
+}
+
+.iroffffff {
+  color: #ffffff;
+}
+
+/* bgiro此處以下放【背景顏色】 */
+
+.bgiroDA3743 {
+  background-color: #da3743;
+}
+
+/* m此處以下放【外邊距】 */
+
+.m-top8 {
+  margin-top: 8px;
+}
+
+.m-left14 {
+  margin-left: 14px;
+}
+
+.m-right14 {
+  margin-right: 14px;
+}
+
+.m-bottom12 {
+  margin-bottom: 12px;
+}
+/* p此處以下放【內邊距】 */
+
+.p-top8 {
+  padding-top: 8px;
+}
+
+.p-top10 {
+  padding-top: 10px;
+}
+
+.p-bottom10 {
+  padding-bottom: 10px;
+}
+
+.p-bottom12 {
+  padding-bottom: 12px;
+}
+
+.p-right32 {
+  padding-right: 32px;
+}
+
+.p-left28 {
+  padding-left: 28px;
+}
