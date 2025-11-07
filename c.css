@@ -73,9 +73,39 @@
   display: flex;
 }
 
-/* .left-words {
-  margin-top: 92px;
-} */
+.left-words {
+  padding-top: 214px;
+  padding-left: 17.5%;
+}
+
+.big-words {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.orenji {
+  color: #ff5722;
+}
+
+.BW-eg {
+  font-size: 20px;
+  font-weight: 1000;
+  margin-top: 20px;
+}
+
+.san-word {
+  color: #696b69;
+  margin: 64px 0;
+}
+
+.bule-botton {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #064c8c;
+  padding: 12px 24px;
+  border-radius: 6px;
+}
 
 /* moji此處以下放【文字大小】 */
 
@@ -115,6 +145,14 @@
   margin-top: 8px;
 }
 
+.m-bottom8 {
+  margin-bottom: 8px;
+}
+
+.m-bottom12 {
+  margin-bottom: 12px;
+}
+
 .m-left14 {
   margin-left: 14px;
 }
@@ -123,9 +161,10 @@
   margin-right: 14px;
 }
 
-.m-bottom12 {
-  margin-bottom: 12px;
+.m-top20 {
+  margin-top: 20px;
 }
+
 /* p此處以下放【內邊距】 */
 
 .p-top8 {
