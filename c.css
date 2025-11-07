@@ -1,5 +1,17 @@
+.soto {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 24px 0;
+  border: 1px solid #e3e3e3;
+  position: fixed;
+  background-color: #ffffff;
+}
+
 .top {
   display: flex;
+  min-width: 65%;
+  justify-content: space-between;
 }
 
 .top-bar {
@@ -15,6 +27,7 @@
 
 .inline {
   font-size: 40px;
+  font-weight: 500;
   color: #ff5722;
 }
 
@@ -38,6 +51,17 @@
   font-size: 20px;
   font-weight: 700;
   align-items: center;
+  margin-left: 20px;
+}
+
+.topbar-button {
+  font-size: 16px;
+  color: #505563;
+  margin: 0 14px;
+}
+
+.buttonsssss {
+  display: flex;
 }
 
 #IC-redbutton {
@@ -48,6 +72,11 @@
 .water {
   display: flex;
 }
+
+/* .left-words {
+  margin-top: 92px;
+} */
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
