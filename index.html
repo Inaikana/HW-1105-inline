@@ -284,7 +284,7 @@
           />
           <label for="kuni">您餐廳的所在國家（必填）</label>
           <select id="kuni" required>
-            <option value="" disabled selected>請選擇國家</option>
+            <option value="" disabled selected>-請選擇國家</option>
             <option value="澳大利亞">澳大利亞</option>
             <option value="加拿大">加拿大</option>
             <option value="香港">香港</option>
@@ -307,6 +307,30 @@
           <input id="level" type="text" required autocomplete="off" />
           <label for="scared">是否有使用過其他訂候位管理系統?（必填）</label>
           <input id="scared" type="text" required autocomplete="off" />
+
+          <label for="func">您對 inline 的哪個功能有興趣?（必填）</label>
+          <select id="func" required>
+            <option value="" disabled selected>──請選擇──</option>
+            <option value="no">--None--</option>
+            <option value="XD">display:inline;</option>
+            <option value="訂候位管理">訂候位管理</option>
+            <option value="外帶外送服務">外帶外送服務</option>
+            <option value="兩者皆有興趣">兩者皆有興趣</option>
+          </select>
+
+          <label for="doko">您是從哪裡獲得 inline 的資訊?（必填）</label>
+          <select id="doko" required>
+            <option value="" disabled selected>──請選擇──</option>
+            <option value="google">Google 搜尋</option>
+            <option value="FBIG">社群媒體 (Facebook / Instagram...等)</option>
+            <option value="adv">網站廣告</option>
+            <option value="friend">朋友介紹</option>
+            <option value="others">其他餐廳</option>
+            <option value="opentable">Opentable</option>
+            <option value="linkedln">Linkedln</option>
+            <option value="under-line">線下活動</option>
+            <option value="inline-human">inline 專人電洽</option>
+          </select>
         </form>
         <!-- 6-111111 表單 -->
       </div>
