@@ -283,7 +283,30 @@
             autocomplete="off"
           />
           <label for="kuni">您餐廳的所在國家（必填）</label>
-          <input id="kuni" />
+          <select id="kuni" required>
+            <option value="" disabled selected>請選擇國家</option>
+            <option value="澳大利亞">澳大利亞</option>
+            <option value="加拿大">加拿大</option>
+            <option value="香港">香港</option>
+            <option value="印尼">印尼</option>
+            <option value="日本">日本</option>
+            <option value="韓國">韓國</option>
+            <option value="澳門">澳門</option>
+            <option value="馬來西亞">馬來西亞</option>
+            <option value="紐西蘭">紐西蘭</option>
+            <option value="菲律賓">菲律賓</option>
+            <option value="新加坡">新加坡</option>
+            <option value="臺灣">臺灣</option>
+            <option value="泰國">泰國</option>
+            <option value="美國">美國</option>
+            <option value="越南">越南</option>
+          </select>
+          <label for="gojyusyo">您餐廳的所在地址（必填）</label>
+          <input id="gojyusyo" type="text" required autocomplete="off" />
+          <label for="level">您的職稱（必填）</label>
+          <input id="level" type="text" required autocomplete="off" />
+          <label for="scared">是否有使用過其他訂候位管理系統?（必填）</label>
+          <input id="scared" type="text" required autocomplete="off" />
         </form>
         <!-- 6-111111 表單 -->
       </div>
