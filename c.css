@@ -255,6 +255,39 @@
   margin-top: 80px;
 }
 
+.BG5 {
+  background-image: url(./bg/5.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 923px;
+}
+
+.go-T {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 64px;
+  text-align: center;
+  color: #252932;
+}
+
+.go-ul {
+  display: flex;
+  justify-content: center;
+  color: #747474;
+}
+
+/* .go-li {
+ 
+} */
+
+.go-line {
+  width: 60%;
+  margin-left: 20%;
+  height: 2px;
+  background-color: #f0f2f7;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
