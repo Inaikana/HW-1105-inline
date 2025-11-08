@@ -267,6 +267,7 @@
   font-size: 28px;
   font-weight: 700;
   margin-top: 64px;
+  margin-bottom: 150px;
   text-align: center;
   color: #252932;
 }
@@ -277,9 +278,16 @@
   color: #747474;
 }
 
-/* .go-li {
- 
-} */
+.go-li {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 24px;
+}
+
+.go-li:hover {
+  border-bottom: 4px solid #ff6e06;
+  color: #252932;
+}
 
 .go-line {
   width: 60%;
