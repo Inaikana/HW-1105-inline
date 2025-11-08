@@ -497,7 +497,37 @@
   padding-left: 152px;
 }
 
+.shitabar {
+  background-color: #252932;
+  color: #ffffff;
+  padding-top: 56px;
+  padding-left: 17.5%;
+}
+
+.SB-4card {
+  display: flex;
+  align-items: start;
+}
+
+.SB1-li {
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+
+.SB1-p {
+  padding-bottom: 24px;
+}
+
+.SB2-li {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #384044;
+}
 /* moji此處以下放【文字大小】 */
+
+.moji12 {
+  font-size: 12px;
+}
 
 .moji16 {
   font-size: 16px;
@@ -563,6 +593,10 @@
 
 .p-top8 {
   padding-top: 8px;
+}
+
+.p-bottom8 {
+  padding-bottom: 8px;
 }
 
 .p-top10 {
