@@ -124,6 +124,32 @@
   padding-top: 128px;
 }
 
+.marus {
+  text-align: center;
+}
+
+.maru-country {
+  display: inline-block;
+  color: #595959;
+  margin-top: 64px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+.maru {
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  border: 1px solid #595959;
+  border-radius: 100%;
+}
+
+.country {
+  text-align: center;
+  margin-top: 32px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
