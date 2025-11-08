@@ -421,6 +421,82 @@
   font-size: 12px;
   padding-bottom: 60px;
 }
+
+.roku-tsuyoi {
+  font-size: 36px;
+  font-weight: 700;
+  color: #252932;
+  text-align: center;
+  padding-top: 96px;
+  padding-bottom: 48px;
+}
+
+.roku-bulebotton {
+  text-align: center;
+  color: #ffffff;
+  background-color: #064c8c;
+  font-weight: 700;
+  font-size: 24px;
+  padding: 20px 28px;
+  border-radius: 8px;
+}
+.roku-bulebotton-div {
+  text-align: center;
+}
+
+.roku-two-T {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333333;
+}
+
+.roku-two-word {
+  font-size: 16px;
+  color: #40434d;
+}
+
+.roku-tel {
+  font-size: 24px;
+  font-weight: 700;
+  color: #252932;
+}
+.roku-Sline {
+  width: 2px;
+  height: 100%;
+  background-color: #cbd1dc;
+}
+
+.roku-TWO-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 108px;
+}
+
+.roku-leftcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 220px;
+  /*右卡離中線152 左卡較小 補誤差 */
+}
+
+.roku-orenjibutton {
+  text-align: center;
+  color: #ffffff;
+  font-size: 16px;
+  background-color: #ec6337;
+  font-weight: 700;
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.roku-rightcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 152px;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
@@ -505,6 +581,14 @@
   padding-bottom: 12px;
 }
 
+.p-bottom16 {
+  padding-bottom: 16px;
+}
+
+.p-left28 {
+  padding-left: 28px;
+}
+
 .p-top32 {
   padding-top: 32px;
 }
@@ -513,8 +597,16 @@
   padding-right: 32px;
 }
 
-.p-left28 {
-  padding-left: 28px;
+.p-top36 {
+  padding-top: 36px;
+}
+
+.p-bottom36 {
+  padding-bottom: 36px;
+}
+
+.p-top40 {
+  padding-top: 40px;
 }
 
 .p-bottom48 {
