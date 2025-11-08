@@ -197,8 +197,9 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  width: 100vw;
-  aspect-ratio: 1920 / 2853;
+  /* width: 100vw;
+  aspect-ratio: 1920 / 2853; */
+  height: 2853px;
 }
 
 .power {
