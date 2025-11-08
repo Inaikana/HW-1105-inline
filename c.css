@@ -406,6 +406,16 @@
   padding-right: 40%;
 }
 
+#roku-button {
+  background-color: #ec6337;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 12px 48px;
+  border-radius: 30px;
+  margin-top: 32px;
+  margin-bottom: 20px;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
