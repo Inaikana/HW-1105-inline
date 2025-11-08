@@ -502,6 +502,8 @@
   color: #ffffff;
   padding-top: 56px;
   padding-left: 17.5%;
+  padding-bottom: 120px;
+  margin-top: 80px;
 }
 
 .SB-4card {
@@ -519,9 +521,15 @@
 }
 
 .SB2-li {
+  width: 264px;
   padding-top: 16px;
   padding-bottom: 16px;
   border-bottom: 1px solid #384044;
+}
+
+.SB3-word {
+  padding-top: 28px;
+  padding-bottom: 8px;
 }
 /* moji此處以下放【文字大小】 */
 
@@ -641,6 +649,10 @@
 
 .p-top40 {
   padding-top: 40px;
+}
+
+.p-top48 {
+  padding-top: 48px;
 }
 
 .p-bottom48 {
