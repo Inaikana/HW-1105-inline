@@ -33,7 +33,7 @@
 
 .BG1 {
   background-image: url(./bg/1.png);
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   height: 732px;
@@ -111,7 +111,7 @@
 
 .BG2 {
   background-image: url(./bg/2.png);
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   height: 596px;
@@ -148,6 +148,48 @@
   margin-top: 32px;
   font-size: 24px;
   font-weight: 500;
+}
+
+#tp101 {
+  display: inline-block;
+  height: 150px;
+  margin-top: 2px;
+}
+
+#hk {
+  display: inline-block;
+  height: 145px;
+  margin-top: 3px;
+}
+
+#nihon {
+  display: inline-block;
+  height: 110px;
+  margin-top: 26px;
+}
+
+#malaysia {
+  display: inline-block;
+  height: 132px;
+  margin-top: 10px;
+}
+
+#fish {
+  display: inline-block;
+  height: 132px;
+  margin-top: 14px;
+}
+
+#ASU {
+  display: inline-block;
+  height: 52px;
+  margin-top: 48px;
+}
+
+#USA {
+  display: inline-block;
+  height: 130px;
+  margin-top: 10px;
 }
 
 /* moji此處以下放【文字大小】 */
