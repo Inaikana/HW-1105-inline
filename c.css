@@ -99,14 +99,29 @@
 }
 
 .bule-botton {
+  display: inline-block;
   color: #ffffff;
   font-size: 16px;
   font-weight: 700;
   background-color: #064c8c;
   padding: 12px 24px;
   border-radius: 6px;
-  position: relative;
-  top: 50px;
+  margin-top: 16px;
+}
+
+.BG2 {
+  background-image: url(./bg/2.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 596px;
+}
+
+.world {
+  font-size: 16px;
+  color: #333333;
+  text-align: center;
+  padding-top: 128px;
 }
 
 /* moji此處以下放【文字大小】 */
@@ -161,6 +176,10 @@
 
 .m-right14 {
   margin-right: 14px;
+}
+
+.m-top16 {
+  margin-top: 16px;
 }
 
 .m-top20 {
