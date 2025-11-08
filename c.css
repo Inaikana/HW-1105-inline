@@ -416,6 +416,11 @@
   margin-bottom: 20px;
 }
 
+.roku-tinyword {
+  color: #2c303f;
+  font-size: 12px;
+  padding-bottom: 60px;
+}
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
