@@ -367,6 +367,45 @@
   align-items: center;
 }
 
+.roku-label {
+  padding-top: 16px;
+  padding-bottom: 12px;
+  color: #252932;
+}
+
+.roku-input {
+  border: 1px solid #dddddd;
+  padding-left: 12px;
+  padding-bottom: 16px;
+  padding-top: 16px;
+  width: 63%;
+  border-radius: 4px;
+}
+
+.roku-input:focus {
+  outline: none;
+  border: 1px solid #999999;
+}
+
+.roku-tongue {
+  text-align: center;
+  color: #9b9b9b;
+}
+
+#kuni,
+#func,
+#roku-doko {
+  color: #9b9b9b;
+}
+
+#roku-nrb {
+  width: 100%;
+  align-self: flex-start;
+  padding-top: 10px;
+  padding-left: 18.5%;
+  padding-right: 40%;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji16 {
