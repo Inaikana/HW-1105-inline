@@ -223,7 +223,7 @@
 .san-big {
   font-size: 32px;
   font-weight: 700;
-  margin-top: 60px;
+  padding-top: 40px;
   text-align: center;
   color: #252932;
 }
@@ -233,11 +233,11 @@
   font-weight: 700;
   color: #064c8c;
   margin-bottom: 56px;
-  margin-left: 80px;
+  padding-left: 20px;
 }
 
-.space40 {
-  height: 40px;
+.space32 {
+  height: 32px;
 }
 
 .san-card {
@@ -248,7 +248,7 @@
 }
 .san-ul-words {
   width: 50%;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 
 .san-li {
@@ -263,7 +263,7 @@
 }
 
 .san-li-p {
-  margin-bottom: 12px;
+  padding-bottom: 8px;
   color: #252932;
   margin-left: 32px;
   /* margin-left: 90px; */
@@ -271,14 +271,14 @@
 }
 
 #liIC11 {
-  padding-top: 176px;
+  padding-top: 160px;
   width: 48px;
 }
 
 #liIC12 {
   width: 48px;
-  padding-top: 96px;
-  padding-bottom: 98px;
+  padding-top: 118px;
+  padding-bottom: 116px;
 }
 
 #liIC13 {
@@ -287,8 +287,8 @@
 
 #liIC14 {
   width: 48px;
-  padding-top: 100px;
-  padding-bottom: 98px;
+  padding-top: 118px;
+  padding-bottom: 116px;
 }
 #liIC15 {
   width: 48px;
