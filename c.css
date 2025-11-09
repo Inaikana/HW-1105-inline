@@ -270,26 +270,42 @@
   /* 做好IC調整 */
 }
 
-#liIC1 {
+#liIC11 {
   padding-top: 176px;
   width: 48px;
 }
 
-#liIC2 {
+#liIC12 {
   width: 48px;
   padding-top: 96px;
   padding-bottom: 98px;
 }
 
-#liIC3 {
+#liIC13 {
   width: 48px;
 }
-#liIC4 {
+
+#liIC14 {
   width: 48px;
   padding-top: 100px;
   padding-bottom: 98px;
 }
-#liIC5 {
+#liIC15 {
+  width: 48px;
+}
+
+#liIC31 {
+  padding-top: 178px;
+  width: 48px;
+}
+
+#liIC32 {
+  width: 48px;
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
+
+#liIC33 {
   width: 48px;
 }
 
@@ -726,6 +742,10 @@
 
 .p-top52 {
   padding-top: 52px;
+}
+
+.p-top60 {
+  padding-top: 60px;
 }
 
 .p-bottom70 {
