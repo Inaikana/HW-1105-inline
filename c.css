@@ -584,7 +584,7 @@
   color: #ffffff;
   padding-top: 56px;
   padding-left: 17.5%;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   margin-top: 80px;
 }
 
@@ -634,6 +634,36 @@
 
 #E-black {
   color: #000000;
+}
+
+.roku-under {
+  display: flex;
+  background-color: #191c23;
+  color: #9ea6b7;
+  height: 56px;
+}
+
+.U-words {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding-left: 17.5%;
+}
+
+.l {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.U-ICs {
+  display: flex;
+  align-items: center;
+  padding-left: 572px;
+}
+
+.ig {
+  padding-left: 20px;
+  padding-right: 16px;
 }
 
 /* moji此處以下放【文字大小】 */
@@ -726,6 +756,14 @@
 
 .p-bottom12 {
   padding-bottom: 12px;
+}
+
+.p-left16 {
+  padding-left: 16px;
+}
+
+.p-right16 {
+  padding-right: 16px;
 }
 
 .p-bottom16 {
