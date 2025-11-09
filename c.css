@@ -44,14 +44,30 @@
   border-radius: 40px;
   padding-left: 28px;
   padding-right: 32px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  padding-bottom: 4px;
+  padding-top: 4px;
   color: #ffffff;
   background-color: #da3743;
   font-size: 20px;
   font-weight: 700;
-  align-items: center;
   margin-left: 20px;
+  height: 40px;
+}
+
+.redbutton-cover {
+  display: flex;
+  align-items: center;
+}
+
+.redbutton-a {
+  display: inline-block;
+  align-items: center;
+}
+
+#IC-redbutton {
+  display: inline-block;
+  width: 28px;
+  vertical-align: middle;
 }
 
 .topbar-button {
@@ -64,11 +80,6 @@
   display: flex;
 }
 
-#IC-redbutton {
-  width: 36px;
-  height: 100%;
-  margin-right: 8px;
-}
 .water {
   display: flex;
 }
