@@ -531,6 +531,29 @@
   padding-top: 28px;
   padding-bottom: 8px;
 }
+
+#SB4-FB {
+  width: 260px;
+  height: 130px;
+}
+
+.SB2 {
+  padding-left: 114px;
+  padding-right: 40px;
+}
+
+.SB3 {
+  padding-right: 40px;
+}
+
+.B-orenji:hover {
+  color: #ff5925;
+}
+
+#E-black {
+  color: #000000;
+}
+
 /* moji此處以下放【文字大小】 */
 
 .moji12 {
@@ -627,6 +650,10 @@
   padding-bottom: 16px;
 }
 
+.p-bottom20 {
+  padding-bottom: 20px;
+}
+
 .p-left28 {
   padding-left: 28px;
 }
@@ -665,4 +692,8 @@
 
 .p-bottom70 {
   padding-bottom: 70px;
+}
+
+.p-left114 {
+  padding-left: 114px;
 }
