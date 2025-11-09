@@ -236,21 +236,6 @@
   margin-left: 80px;
 }
 
-.san-li {
-  font-size: 20px;
-  font-weight: 600;
-  color: #252932;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 90px;
-}
-
-.san-li-p {
-  margin-bottom: 12px;
-  color: #252932;
-  margin-left: 90px;
-}
-
 .space40 {
   height: 40px;
 }
@@ -264,6 +249,48 @@
 .san-ul-words {
   width: 50%;
   margin-top: 80px;
+}
+
+.san-li {
+  font-size: 20px;
+  font-weight: 600;
+  color: #252932;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 32px;
+  /* margin-left: 90px; */
+  /* 做好IC調整 */
+}
+
+.san-li-p {
+  margin-bottom: 12px;
+  color: #252932;
+  margin-left: 32px;
+  /* margin-left: 90px; */
+  /* 做好IC調整 */
+}
+
+#liIC1 {
+  padding-top: 176px;
+  width: 48px;
+}
+
+#liIC2 {
+  width: 48px;
+  padding-top: 96px;
+  padding-bottom: 98px;
+}
+
+#liIC3 {
+  width: 48px;
+}
+#liIC4 {
+  width: 48px;
+  padding-top: 100px;
+  padding-bottom: 98px;
+}
+#liIC5 {
+  width: 48px;
 }
 
 .BG5 {
